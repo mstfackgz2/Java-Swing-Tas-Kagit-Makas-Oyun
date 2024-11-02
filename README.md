@@ -2,7 +2,7 @@
 
 Bu proje OOP yapilarini anlamak ve soruna ozgu cozum uretmek icin yapilmisir.
 
-Super Tas, Super Makas, Super Kagit gibi ekstra nesneler de kendi zitlarina zarar verebilmektedir. Ne kadar etkilecegi ve geri kalan gereksinimler [mission_paper.pdf] de mevcuttur.
+Super Tas, Super Makas, Super Kagit gibi ekstra nesneler de kendi zitlarina zarar verebilmektedir. Ne kadar etkilecegi ve geri kalan gereksinimler <a href="https://github.com/mstfackgz2/Java-Swing-Tas-Kagit-Makas-Oyun/blob/main/mission_paper.pdf" target="_blank">PDF</a> de mevcuttur.
 
 # Kullanici vs Pc Ornek Kullanim
 
