@@ -6,8 +6,7 @@ Super Tas, Super Makas, Super Kagit gibi ekstra nesneler de kendi zitlarina zara
 
 # Kullanici vs Pc Ornek Kullanim
 
-![kullaniciVsPc](https://github.com/user-attachments/assets/9e20d5bb-978a-436d-ab1d-748ef65a8170)
-
+![2024-11-0223-36-49-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/10abbf79-1907-4e68-b1da-a2ff5c1ebafe)
 
 # Pc VS Pc Ornek Kullanim
 
